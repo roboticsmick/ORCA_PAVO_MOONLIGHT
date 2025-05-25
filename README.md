@@ -4,6 +4,7 @@ A custom FPV frame designed for the BetaFPV Pavo20 Pro frame with the CaddxFPV W
 
 ![Screenshot from 2025-05-25 16-22-57](https://github.com/user-attachments/assets/49e8fc0f-76c6-4e42-a41d-169d48c86763)
 ![Screenshot from 2025-05-25 15-37-20](https://github.com/user-attachments/assets/871798e0-5af4-490c-946f-824bf2888cec)
+![Screenshot from 2025-05-25 16-32-25](https://github.com/user-attachments/assets/80011193-4dd7-48e0-875f-f4664dde51d3)
 
 It also has cable management for the two antennas, and a mounting slot for the FlyFishRC M10 Mini GPS Module.
 ![Screenshot from 2025-05-25 16-23-04](https://github.com/user-attachments/assets/0672199a-b2b3-4d30-a958-df8de94f7ec3)
@@ -21,6 +22,8 @@ It also has cable management for the two antennas, and a mounting slot for the F
 - Estimated Build Time: 72 hours
 - Product Category: Plastic Enclosure
 - Cost: ~$7 (Frame $5 + Mount $2)
+
+![Screenshot from 2025-05-25 16-32-36](https://github.com/user-attachments/assets/04d32c89-c08f-4a61-8912-931573884697)
 
 ## Additional parts
 
