@@ -7,6 +7,7 @@ A custom FPV frame designed for the BetaFPV Pavo20 Pro frame with the CaddxFPV W
 ![Screenshot from 2025-05-25 16-32-25](https://github.com/user-attachments/assets/80011193-4dd7-48e0-875f-f4664dde51d3)
 
 It also has cable management for the two antennas, and a mounting slot for the FlyFishRC M10 Mini GPS Module.
+
 ![Screenshot from 2025-05-25 16-23-04](https://github.com/user-attachments/assets/0672199a-b2b3-4d30-a958-df8de94f7ec3)
 ![Screenshot from 2025-05-25 15-40-12](https://github.com/user-attachments/assets/a7d0a7f8-9c30-4903-9ea7-376b4c2cbbc6)
 ![Screenshot from 2025-05-25 16-01-24](https://github.com/user-attachments/assets/a5a82acb-1acf-46d4-b96f-8ff7d0a0f369)
@@ -37,7 +38,6 @@ It also has cable management for the two antennas, and a mounting slot for the F
 - 1 x FlyFishRC M10 Mini GPS Module
 
 ![Screenshot from 2025-05-25 15-00-39](https://github.com/user-attachments/assets/cdf716fa-2613-408e-bb09-a39e6e50d1c8)
-![Screenshot from 2025-05-25 15-51-44](https://github.com/user-attachments/assets/f61e26e0-83e9-426a-bc61-944a44cfccb2)
 
 ## Installation
 
