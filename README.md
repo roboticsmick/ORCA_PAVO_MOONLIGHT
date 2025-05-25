@@ -14,7 +14,7 @@ It also has cable management for the two antennas, and a mounting slot for the F
 
 ## 3D Printing Manufacturing
 
-🔗 **Order directly from JLCCNC:** [JLCCNC FPV Frame](https://jlc3dp.com/3d-models/detail/MX11062-BetaFPV-Pavo20-Pro-Whoop-+-CaddxFPV-Walksnail-Moonlight-4K-FPV-Frame)]
+🔗 **(Pending approval from JLC) Order directly from JLC:** [JLC3DP FPV Frame](https://jlc3dp.com/3d-models/detail/MX11062-BetaFPV-Pavo20-Pro-Whoop-+-CaddxFPV-Walksnail-Moonlight-4K-FPV-Frame)]
 
 ### Printing setup
 - 3D Technology: MJF(Nylon)
